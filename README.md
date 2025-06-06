@@ -11,6 +11,8 @@ Command+B
 ```
 
 ## 已知BUG
+
 英文输入在educoder中也可能有s、n字母变为using namespace std;
+
 ---
 Crack the prohibition code copy and paste of educoder(MacOS)
